@@ -2,7 +2,7 @@
 [<- Return to Harness Template Library - Developer's Guide](../README.md)
 
 ## Summary
-placeholder
+Developing for HTL involves having docker, terraform/opentofu, and git installed locally.
 
 
 ## Using the DevContainer in this repository
