@@ -48,15 +48,3 @@ version_tests    Runs an entire suite of executions for a template based on the 
 full_suite       Cycles a full End-to-end testing for all versions listed. Reads all versions in the .terraform_verions and .tofu_versions files.
 generate         Generate a new directory using a template type. The argument `name=<new-template-name>` needs to be passed along with this command
 ```
-
-## Contributing
-
-A complete [Contributors Guide](../../CONTRIBUTING.md) can be found in this repository
-
-## Authors
-
-This repository is maintained by Harness, Inc
-
-## License
-
-MIT License. See [LICENSE](../../LICENSE) for full details.

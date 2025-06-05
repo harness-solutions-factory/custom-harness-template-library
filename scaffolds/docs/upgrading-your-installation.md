@@ -42,15 +42,3 @@ _**Note**: Additional details around the various options and variables can be fo
 
 15. Navigate to pipelines
 16. Run the pipeline `Deploy Solutions Factory` to apply the changes.
-
-## Contributing
-
-A complete [Contributors Guide](../../CONTRIBUTING.md) can be found in this repository
-
-## Authors
-
-This repository is maintained by Harness, Inc
-
-## License
-
-MIT License. See [LICENSE](../../LICENSE) for full details.

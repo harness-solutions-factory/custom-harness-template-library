@@ -40,14 +40,3 @@ To help generate the `resources`, `inputs`, and `outputs` section of the README 
 
 This file should include all the variables from your project, their description, and their defaults, so users can easily use this to bootstrap your template. You can again use [terraform-docs](https://terraform-docs.io/user-guide/installation/) to bootstrap this: `terraform-docs tfvars hcl .`
 
-## Contributing
-
-A complete [Contributors Guide](../../CONTRIBUTING.md) can be found in this repository
-
-## Authors
-
-This repository is maintained by Harness, Inc
-
-## License
-
-MIT License. See [LICENSE](../../LICENSE) for full details.

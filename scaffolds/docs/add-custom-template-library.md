@@ -93,14 +93,3 @@ _**STOP**: Review the below prior generating a Pull-Request and finalizing your 
 As part of the testing of the new template, it is entirely likely that you created these changes on a non-default branch.  Prior to making the final edits, change any `branch` or `metadata.name` changes you have made to the template.
 
 
-## Contributing
-
-A complete [Contributors Guide](../../CONTRIBUTING.md) can be found in this repository
-
-## Authors
-
-This repository is maintained by Harness, Inc
-
-## License
-
-MIT License. See [LICENSE](../../LICENSE) for full details.

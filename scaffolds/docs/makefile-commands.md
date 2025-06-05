@@ -42,15 +42,3 @@ _Note: a local list of available target commands can be printed by  running the 
 | Command | Description | Notes |
 | --- | --- | --- |
 | generate type=terraform [name]| Generate a new directory using a template type  | The argument `name=<new-template-name>` needs to be passed along with this command |
-
-## Contributing
-
-A complete [Contributors Guide](../../CONTRIBUTING.md) can be found in this repository
-
-## Authors
-
-This repository is maintained by Harness, Inc
-
-## License
-
-MIT License. See [LICENSE](../../LICENSE) for full details.
