@@ -1,7 +1,7 @@
 apiVersion: harness.io/v1
 kind: Workflow
-name: # Lowercase unique identifier using [a-zA-Z0-9_] format - e.g. harness_project_setup
-title: # Enter a clear title
+name: # Enter a clear title
+identifier: # Lowercase unique identifier using [a-zA-Z0-9_] format - e.g. harness_project_setup
 owner: group:default/harness_account_all_users # Defaults to all users
 # Refer to Solutions Factory documentation on various type categories. Review the naming conventions standards
 # document located in the scaffolds/docs/naming-conventions.md document in this repository
